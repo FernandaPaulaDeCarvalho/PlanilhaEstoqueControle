@@ -8,11 +8,11 @@ Este repositório contém dois scripts Google Apps Script que automatizam a cria
 
 ## Arquivos Incluídos
 
-*   **ScriptPlanilhaEstoqueControle:**
+*   **ScriptPlanilhaEstoqueControle.gs:**
     *   Responsável pela criação e formatação da planilha, incluindo a criação das abas, a aplicação de formatação condicional, a validação de dados e a proteção das abas.
     *   Deve ser executado em três etapas distintas (`primeiraEtapa`, `segundaEtapa` e `terceiraEtapa`) dentro do Google Apps Script.
 
-*   **ScriptBotaoAmareloGravar:**
+*   **ScriptBotaoAmareloGravar.gs:**
     *   Responsável por adicionar a funcionalidade aos botões "GRAVAR" nas abas "ENTRADA" e "SAÍDA", permitindo gravar os dados inseridos.
     *   Deve ser copiado e colado no editor de script da planilha após a execução das três etapas do `ScriptPlanilhaEstoqueControle`.
 

@@ -1,4 +1,4 @@
-# PlanilhaEstoqueControle: Scripts Google Apps Script para Planilha de Gerenciamento de Estoque no Google Sheets
+# PlanilhaEstoqueControle: Scripts Google Apps Script para Gerenciamento de Estoque no Google Sheets
 
 [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue?logo=github)](https://github.com/FernandaPaulaDeCarvalho/PlanilhaEstoqueControle)
 

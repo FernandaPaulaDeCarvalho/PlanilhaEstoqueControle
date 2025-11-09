@@ -162,4 +162,4 @@ Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licens
 
 ## Autor
 
-[Fernanda Paula de Carvalho](https://www.linkedin.com/in/fernanda-paula-de-carvalho-phd-37599134) - [GitHub](https://github.com/FernandaPaulaDeCarvalho)
+Fernanda Paula de Carvalho [Lattes](https://lattes.cnpq.br/3840867034129036) - [LinkedIn](https://www.linkedin.com/in/fernanda-paula-de-carvalho-phd-37599134) - [GitHub](https://github.com/FernandaPaulaDeCarvalho)

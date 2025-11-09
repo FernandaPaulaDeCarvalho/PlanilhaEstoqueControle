@@ -11,7 +11,7 @@ Este repositório contém dois scripts Google Apps Script que automatizam a cria
 1.  **`ScriptPlanilhaEstoqueControle`:**
     *   Responsável pela criação e formatação da planilha, incluindo a criação das abas, a aplicação de formatação condicional, a validação de dados e a proteção das abas.
     *   Deve ser executado em três etapas distintas ( `primeiraEtapa`, `segundaEtapa` e `terceiraEtapa`) dentro do Google Apps Script.
-2.  **`ScriptBotoesGravarEntradaSaida`:**
+2.  **`ScriptBotaoAmareloGravar`:**
     *   Responsável por adicionar a funcionalidade aos botões "GRAVAR" nas abas "ENTRADA" e "SAÍDA", permitindo gravar os dados inseridos.
     *   Deve ser copiado e colado no editor de script da planilha **após** a execução das três etapas do `ScriptPlanilhaEstoqueControle`.
 
@@ -43,14 +43,14 @@ Este repositório contém dois scripts Google Apps Script que automatizam a cria
 
 1.  **Criar a Planilha (Proprietário):**
     *   Ao final de cada ano, acesse o repositório do GitHub: (https://github.com/FernandaPaulaDeCarvalho/PlanilhaEstoqueControle).
-    *   Procure os arquivos `ScriptPlanilhaEstoqueControle` e `ScriptBotoesGravarEntradaSaida` com a versão mais recente.
+    *   Procure os arquivos `ScriptPlanilhaEstoqueControle` e `ScriptBotaoAmareloGravar` com a versão mais recente.
     *   Copie o código do arquivo `ScriptPlanilhaEstoqueControle`.
     *   Cole o código copiado no editor do Google App Script da sua conta Google (Novo > Mais > Script do Google Apps).
     *   Execute as funções `primeiraEtapa`, `segundaEtapa` e `terceiraEtapa` **em sequência**.
         *   **ATENÇÃO:** A execução pela primeira vez requer conceder permissões ao script.
         *   **ATENÇÃO:** Aguarde a mensagem de conclusão no painel "Registro de execução" para executar a etapa seguinte.
     *   Ao concluir a terceira etapa, abra o editor de script da planilha recém-criada (Extensões > App Script).
-    *   Copie o código do arquivo `ScriptBotoesGravarEntradaSaida` (disponível no repositório) e cole no editor de script da planilha recém-criada.
+    *   Copie o código do arquivo `ScriptBotaoAmareloGravar` (disponível no repositório) e cole no editor de script da planilha recém-criada.
         *   **ATENÇÃO:** Este script é responsável pela funcionalidade dos botões "GRAVAR" nas abas "ENTRADA" e "SAÍDA". **Ele deve ser adicionado separadamente, após a execução das etapas do `ScriptPlanilhaEstoqueControle`.**
 
 2.  **Configuração Inicial da Planilha (Proprietário):**
